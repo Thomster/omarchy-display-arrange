@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "display-arrange",
+  "name": "Display Arrange",
+  "version": "1.0.0",
+  "author": "Omarchy",
+  "description": "Brightness slider plus one-click Left/Top/Right arrangement for a second monitor",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Display Arrange",
+    "description": "Brightness slider plus one-click Left/Top/Right arrangement for a second monitor",
+    "category": "System",
+    "allowMultiple": false
+  },
+  "omarchy": {
+    "clonedFrom": "omarchy.monitor"
+  }
+}
