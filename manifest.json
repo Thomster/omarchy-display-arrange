@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "display-arrange",
+  "id": "omarchy_plus_display-arrange",
   "name": "Display Arrange",
   "version": "1.0.0",
-  "author": "Omarchy",
+  "author": "Thomas",
   "description": "Brightness slider plus one-click Left/Top/Right arrangement for a second monitor",
   "kinds": [
     "bar-widget"
